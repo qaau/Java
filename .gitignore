@@ -31,3 +31,5 @@ sandbox/.gradle/*
 sandbox/.gradle/6.6.1/executionHistory/executionHistory.lock
 sandbox/gradle/*
 gradle/
+*.lock
+caches/
