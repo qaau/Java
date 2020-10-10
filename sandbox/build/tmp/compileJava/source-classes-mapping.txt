@@ -1,0 +1,6 @@
+JavaProject/Rectangle.java
+ Main.java.JavaProject.Rectangle
+JavaProject/Square.java
+ Main.java.JavaProject.Square
+JavaProject/MyFirstProgram.java
+ MyFirstProgram
