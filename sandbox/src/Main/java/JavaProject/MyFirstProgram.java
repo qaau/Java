@@ -4,7 +4,7 @@ import Main.java.JavaProject.Square;
 public class MyFirstProgram {
     public static void main (String[] args) {
         hello("you");
-        hello("Young Padavan");
+        hello(", Young Padavan");
 
         Square s = new Square(6);
         //s.l = 5;
