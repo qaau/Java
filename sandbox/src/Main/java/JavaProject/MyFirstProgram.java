@@ -4,7 +4,7 @@ import Main.java.JavaProject.Square;
 public class MyFirstProgram {
     public static void main (String[] args) {
         hello("you");
-        hello(", Young Padavan");
+        hello("Young Padavan");
 
         Square s = new Square(6);
         //s.l = 5;
@@ -16,7 +16,7 @@ public class MyFirstProgram {
         System.out.println("Rectangle area with sides " + r.a + " and " + r.b +" equals " + r.area());
     }
     public static void hello (String somebody) {
-        System.out.println("Hello " + somebody + "!");
+        System.out.println("Hello, " + somebody + "!");
     }
 
 }
