@@ -1,3 +1,7 @@
+.gradle
+./daemon
+daemon/
+
 # Compiled class file
 *.class
 
